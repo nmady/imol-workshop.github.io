@@ -28,10 +28,9 @@ subtitle: Intrinsically Motivated Open-ended Learning
 <h3 style='margin-bottom: 10pt;'>Description</h3>
 <p>How do humans develop broad and flexible repertoires of knowledge and skills?
 How can we design autonomous lifelong learning machines with the same abilities?</p>
-
     <p>A promising computational and scientific approach to these questions comes from the study of <i>intrinsically motivated learning</i>, sometimes called
     <i>curiosity-driven learning</i> (Oudeyer et al., 2007; Schmidhuber, 2010; Barto, 2013; Mirolli and Baldassarre, 2013); a framework that finds inspiration in the drive of
-        humans and other animals to seek ``interesting'' situations for their own sake (White,
+        humans and other animals to seek "interesting" situations for their own sake (White,
         1959; Berlyne, 1960; Deci and Ryan, 1985). These intrinsic motivations (IM) have evolved in animals to drive exploratory behaviors, an essential component of efficient
         learning (Singh et al., 2010). When implemented in machines, they support the autonomous exploration of complex environments; a key component of many recent breakthrough
         in reinforcement learning (Bellemare et al., 2016;
@@ -43,7 +42,8 @@ How can we design autonomous lifelong learning machines with the same abilities?
     <p>Despite recent successes, today’s agents still lack the autonomy and flexibility required to learn and thrive in realistic open-ended environments. Such versatility requires the capacity to generalize to domains different from the ones encountered at design time, to adaptively create goals and switch between them, and to integrate incremental learning of skills and knowledge over longer periods of time.
     These issues are especially relevant for efforts to deploy artificial intelligence in the real world without human intervention, a topic of key concern in the NeurIPS community.
     </p>
-    <p>Better understanding and engineering of such flexible learning systems will require fresh approaches and cross-disciplinary conversations. We propose to bring these conversations to NeurIPS by introducing the growing field of \textbf{Intrinsically Motivated Open-ended Learning (IMOL)}.
+    <p>Better understanding and engineering of such flexible learning systems will require fresh approaches and cross-disciplinary conversations. We propose to bring these 
+conversations to NeurIPS by introducing the growing field of <b> Intrinsically Motivated Open-ended Learning (IMOL) </b>.
     Taking roots in developmental robotics (Lungarella et al., 2003; Cangelosi and Schlesinger, 2015) , IMOL aims at a unified study of the motivational forces, learning
         architectures, and developmental and environmental constraints that support the development of open-ended repertoires of skills and knowledge over learners' lifetimes
         (e.g. , Barto et al., 2004; Baldassarre, 2011; Baranes and Oudeyer,
