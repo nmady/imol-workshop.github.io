@@ -59,11 +59,6 @@ subtitle:
     <td>TBD</td>
     <td>(confirmed)</td>
   </tr>
-  <tr>
-    <td><a href="https://mila.quebec/personne/doina-precup/">Doina Precup</a> (McGill)</td>
-    <td>TBD</td>
-    <td>(invited)</td>
-  </tr>
 
 
 </table>
