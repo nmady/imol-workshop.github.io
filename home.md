@@ -34,7 +34,7 @@ layout: home
 <p>How do humans develop broad and flexible repertoires of knowledge and skills?
 How can we design autonomous lifelong learning machines with the same abilities?</p>
     <p>A promising computational and scientific approach to these questions comes from the study of <i>intrinsically motivated learning</i>, sometimes called
-    <i>curiosity-driven learning</i> (Oudeyer et al., 2007; Schmidhuber, 2021; Barto, 2013; Mirolli and Baldassarre, 2013); a framework that finds inspiration in the drive of
+    <i>curiosity-driven learning</i> (Oudeyer et al., 2007; Barto, 2013; Mirolli and Baldassarre, 2013, Schmidhuber, 2021); a framework that finds inspiration in the drive of
         humans and other animals to seek "interesting" situations for their own sake (White,
         1959; Berlyne, 1960; Deci and Ryan, 1985). These intrinsic motivations (IM) have evolved in animals to drive exploratory behaviors, an essential component of efficient
         learning (Singh et al., 2010). When implemented in machines, they support the autonomous exploration of complex environments; a key component of many recent breakthrough
