@@ -70,7 +70,7 @@ Examples of topics include:
 <h3 style='margin-bottom: 10pt;'>Submission Instructions</h3>
 
 <div class='description' style='font-size: 11pt;'>
-<p>Submission should be made on <a href="" target="_blank">OpenReview</a>.</p>
+<p>Submission should be made on <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/IMOL" target="_blank">OpenReview</a>.</p>
 
 <p> Submissions should be anonymised papers up to 4 pages (appendices can be added to the main PDF). You must format your submission using the <a href="https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles" target="_blank"> NeurIPS 2023 LaTeX style file </a>. Reviews will be double-blind, with at least two reviewers assigned to each paper.</p> 
 
