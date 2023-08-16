@@ -24,7 +24,7 @@ subtitle:
   </tr>
   <tr>
     <td> <a href="https://psych.princeton.edu/people/natalia-v%C3%A9lez">Natalia Vélez</a> (Princeton) </td>
-    <td>TBD</td>
+    <td>How do humans overcome individual computational limitations by working together?</td>
     <td>(confirmed)</td>
   </tr>
   <tr>
@@ -114,6 +114,45 @@ subtitle:
     </div>
   </div>
 </div>
+
+<div class='row'>
+
+  <div class="col-3">
+
+    <div class="frame">
+
+      <img class="speaker-img" src='/assets/img/natalia.png'>
+
+    </div>
+
+  </div>
+
+  <div class="col-9">
+
+    <h4> <a href="https://nataliavelez.org/" target="_blank"> Natalia Vélez </a></h4>
+
+    <p class='speaker-affiliation'> Princeton </p>
+
+      <p style='font-size: 11pt;'>
+
+        <b>Talk title: </b> How do humans overcome individual computational limitations by working together?
+
+    </p>
+    <button type="button" class="collapsible">Bio</button>
+    <div class="content">
+        <p style='margin-top: 5pt;font-size: 11pt;'>
+I am an assistant professor in the Department of Psychology at Princeton University. My lab studies the cognitive capacities and community dynamics that make human collaboration possible. We approach collaboration at two levels of analysis. Zooming in, our work seeks to understand how individuals navigate collaborations—that is, how individuals learn about their collaborators, share knowledge with one another, and divide labor. Zooming out, our work examines how community-wide dynamics contribute to the success of collaborations. Outside of the lab, I draw <a href="https://nataliavelez.org/sketches/"> portraits </a> of scientists alongside their science.         </p>    
+    </div>
+
+    <button type="button" class="collapsible">Abstract</button>
+    <div class="content">
+        <p style='margin-top: 5pt;font-size: 11pt;'>
+        TBD
+        </p>
+    </div>
+  </div>
+</div>
+
 
 
 
