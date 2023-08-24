@@ -14,7 +14,7 @@ subtitle:
   </tr>
   <tr>
     <td> <a href="https://people.idsia.ch/~juergen/">Jürgen Schmidhuber</a>  (KAUST AI, Swiss AI Lab) </td>
-    <td>TBD</td>
+    <td>Artificial neural nets with intrinsic motivation since 1990</td>
     <td>(confirmed)</td>
   </tr>
   <tr>
@@ -149,6 +149,51 @@ I am an assistant professor in the Department of Psychology at Princeton Univers
         <p style='margin-top: 5pt;font-size: 11pt;'>
         TBD
         </p>
+    </div>
+  </div>
+</div>
+
+<div class='row'>
+
+  <div class="col-3">
+
+    <div class="frame">
+
+      <img class="speaker-img" src='/assets/img/jurgen.jpeg'>
+
+    </div>
+
+  </div>
+  <div class="col-9">
+
+    <h4> <a href="https://people.idsia.ch/~juergen/" target="_blank"> Jürgen Schmidhuber </a></h4>
+    <p class='speaker-affiliation'> KAUST, AI Swiss Lab </p>
+      <p style='font-size: 11pt;'>
+        <b>Talk title: </b> Artificial neural nets with intrinsic motivation since 1990
+    </p>
+    <button type="button" class="collapsible">Bio</button>
+    <div class="content">
+        <p style='margin-top: 5pt;font-size: 11pt;'>
+The New York Times headlined: "When A.I. Matures, It May Call Jürgen Schmidhuber 'Dad'." Since age 15, his main goal has been to build a self-improving A.I. smarter than himself, then retire. His lab's deep learning artificial neural networks based on ideas published in the "Annus Mirabilis" 1990-1991 have revolutionised machine learning and A.I. By 2017, they were on over 3 billion smartphones, and used billions of times per day, for Facebook’s automatic translation, Google’s speech recognition, Google Translate, Apple’s Siri & QuickType, Amazon’s Alexa, etc. He pioneered generative adversarial networks (1990, now widely used), artificial curiosity, Transformers with linearized self-attention (1991 - Transformers are the basis of the famous ChatGPT), and meta-learning machines that learn to learn (since 1987). Today, the most cited neural networks all build on work done in his labs. He is recipient of numerous awards, Director of the AI Initiative at KAUST in KSA, Scientific Director of the Swiss AI Lab IDSIA, Adj. Prof. of A.I. at Univ. Lugano, and Co-Founder & Chief Scientist of the company NNAISENSE. He is a frequent keynote speaker at major events, and advising various governments on A.I. strategies.
+        </p>
+    </div>
+
+    <button type="button" class="collapsible">Abstract</button>
+    <div class="content">
+        <p style='margin-top: 5pt;font-size: 11pt;'>
+        Artificial neural nets with intrinsic motivation since 1990.
+For over three decades I have published work about artificial scientists equipped with intrinsic motivation to implement artificial curiosity and creativity. In this context, I have frequently pointed out that there are two important things in science: (A) Finding answers to given questions, and (B) Coming up with good questions. (A) is arguably just the standard problem of computer science. But how to implement the creative part (B) in artificial systems through reinforcement learning (RL), gradient-based artificial neural networks (NNs), and other machine learning methods? Here I summarise some of our approaches:
+<ul style='font-size: 11pt;'>
+<li>1990: Intrinsic motivation through the principle of generative adversarial NNs</li>
+<li>1991: Intrinsic motivation through NNs that maximise learning progress</li>
+<li>1995: RL to maximise information gain or Bayesian surprise. (2011: Do this optimally)</li>
+<li>1997: Adversarial RL agents design surprising computational experiments</li>
+<li>2022: NNs generating complex experiments encoded as NN weight matrices</li>
+<li>2006: Intrinsic motivation to maximise compression progress like scientists/artists/comedians do</li>
+<li>2011: Intrinsic Motivation through PowerPlay which continually searches for novel well-defined computational problems whose solutions can easily be added to the skill repertoire, taking into account verification time</li>
+<li>2015: Planning and intrinsic motivation with spatio-temporal abstractions in NNs</li>
+</ul>    
+</p>
     </div>
   </div>
 </div>

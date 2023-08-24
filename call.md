@@ -46,11 +46,11 @@ Examples of topics include:
 <table style='margin-bottom:10pt;text-align:center;'>
 	<tr>
 		<td> <b>Submission Deadline</b></td> 
-		<td> Sept 29, 2023</td>
+		<td> Sept 25, 2023</td>
 	</tr>
 	<tr>
 		<td> Acceptance Notification </td>
-		<td> Oct 27, 2023</td>
+		<td> Oct 19, 2023</td>
 	</tr>
 	<tr>
 		<td> Camera-Ready Deadline</td>
@@ -58,7 +58,7 @@ Examples of topics include:
 	</tr>
 	<tr>
 		<td> Workshop Date</td>
-		<td> Dec 15 or 16, 2023 (TBD)</td>
+		<td> Dec 16, 2023 (TBD)</td>
 	</tr>
 </table>
 </center>
