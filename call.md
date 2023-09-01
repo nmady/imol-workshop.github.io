@@ -46,7 +46,7 @@ Examples of topics include:
 <table style='margin-bottom:10pt;text-align:center;'>
 	<tr>
 		<td> <b>Submission Deadline</b></td> 
-		<td> Sept 25, 2023</td>
+		<td> Sept 29, 2023</td>
 	</tr>
 	<tr>
 		<td> Acceptance Notification </td>

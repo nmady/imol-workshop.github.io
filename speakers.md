@@ -4,38 +4,6 @@ title: Speakers
 subtitle: 
 ---
 
-<div style='font-size: 11pt;'>
-
-<table>
-  <tr>
-    <td> <a href="https://scholars.duke.edu/person/michael.tomasello">Michael Tomasello</a>  (Univ. Duke) </td>
-    <td>Agency and Cognitive Development</td>
-    <td>(confirmed)</td>
-  </tr>
-  <tr>
-    <td> <a href="https://people.idsia.ch/~juergen/">Jürgen Schmidhuber</a>  (KAUST AI, Swiss AI Lab) </td>
-    <td>Artificial neural nets with intrinsic motivation since 1990</td>
-    <td>(confirmed)</td>
-  </tr>
-  <tr>
-    <td> <a href="https://is.mpg.de/en/people/gmartius">Georg Martius</a> (Max Plack Institute) </td>
-    <td>  Intrinsic Motivations for Efficient Exploration in Reinforcement Learning </td>
-    <td>(confirmed)</td>
-  </tr>
-  <tr>
-    <td> <a href="https://psych.princeton.edu/people/natalia-v%C3%A9lez">Natalia Vélez</a> (Princeton) </td>
-    <td>How do humans overcome individual computational limitations by working together?</td>
-    <td>(confirmed)</td>
-  </tr>
-  <tr>
-    <td><a href="https://feryal.github.io/">Feryal Behbahani</a> (Google DeepMind)</td>
-    <td>TBD</td>
-    <td>(confirmed)</td>
-  </tr>
-</table>
-</div>
-
-
 
 <div class='row'>
 
@@ -199,7 +167,120 @@ For over three decades I have published work about artificial scientists equippe
 </div>
 
 
+<div class='row'>
 
+  <div class="col-3">
+
+    <div class="frame">
+
+      <img class="speaker-img" src='/assets/img/dani.jpeg'>
+
+    </div>
+
+  </div>
+
+  <div class="col-9">
+
+    <h4> <a href="https://complexsystemsupenn.com/personal" target="_blank"> Dani S. Bassett </a></h4>
+
+    <p class='speaker-affiliation'> University of Pennsylvania </p>
+
+      <p style='font-size: 11pt;'>
+
+        <b>Talk title: </b>  Agents of Curiosity: Testing Network Theories in Human and Non-Human Inquirers
+
+    </p>
+    <button type="button" class="collapsible">Bio</button>
+    <div class="content">
+        <p style='margin-top: 5pt;font-size: 11pt;'>
+Prof. Bassett is the J. Peter Skirkanich Professor at the University of Pennsylvania, with appointments in the Departments of Bioengineering, Electrical & Systems Engineering, Physics & Astronomy, Neurology, and Psychiatry. They are also an external professor of the Santa Fe Institute. Bassett is most well-known for blending neural and systems engineering to identify fundamental mechanisms of cognition and disease in human brain networks. They received a B.S. in physics from Penn State University and a Ph.D. in physics from the University of Cambridge, UK as a Churchill Scholar, and as an NIH Health Sciences Scholar. Following a postdoctoral position at UC Santa Barbara, Bassett was a Junior Research Fellow at the Sage Center for the Study of the Mind. They have received multiple prestigious awards, including American Psychological Association's ‘Rising Star’ (2012), Alfred P Sloan Research Fellow (2014), MacArthur Fellow Genius Grant (2014), Early Academic Achievement Award from the IEEE Engineering in Medicine and Biology Society (2015), Office of Naval Research Young Investigator (2015), National Science Foundation CAREER (2016), Popular Science Brilliant 10 (2016), Lagrange Prize in Complex Systems Science (2017), Erdos-Renyi Prize in Network Science (2018), OHBM Young Investigator Award (2020), AIMBE College of Fellows (2020), American Physical Society Fellow (2021), and has been named one of Web of Science's most Highly Cited Researchers for 3 years running. Bassett is the author of more than 400 peer-reviewed publications, which have garnered over 45,000 citations, as well as numerous book chapters and teaching materials. Bassett’s work has been supported by the National Science Foundation, the National Institutes of Health, the Army Research Office, the Army Research Laboratory, the Office of Naval Research, the Department of Defense, the Alfred P Sloan Foundation, the John D and Catherine T MacArthur Foundation, the Paul Allen Foundation, the ISI Foundation, and the Center for Curiosity. Bassett has recently co-authored Curious Minds: The Power of Connection (MIT Press) with philosopher and twin Perry Zurn.
+        </p>
+    </div>
+
+    <button type="button" class="collapsible">Abstract</button>
+    <div class="content">
+        <p style='margin-top: 5pt;font-size: 11pt;'>
+        TBD
+        </p>
+    </div>
+  </div>
+</div>
+
+
+<div class='row'>
+
+  <div class="col-3">
+
+    <div class="frame">
+
+      <img class="speaker-img" src='/assets/img/doina.jpeg'>
+
+    </div>
+
+  </div>
+
+  <div class="col-9">
+
+    <h4> <a href="https://rl.cs.mcgill.ca/people/doina-precup" target="_blank"> Doina Precup </a></h4>
+
+    <p class='speaker-affiliation'> McGill University, Mila, Google DeepMind </p>
+
+      <p style='font-size: 11pt;'>
+
+        <b>Talk title: </b>  TBD
+
+    </p>
+    <button type="button" class="collapsible">Bio</button>
+    <div class="content">
+        <p style='margin-top: 5pt;font-size: 11pt;'>
+Doina Precup splits her time between McGill University, where she holds a Canada-CIFAR AI chair, and Google DeepMind where she has been leading the Montreal research team since 
+its formation in October 2017 and the Deep Reinforcement Learning team since 2021. She is also a core member of Mila (the Quebec AI institute) and a Fellow of the Royal Society 
+of Canada, noted for her fundamental contributions to reinforcement learning. Dr. Precup obtained her Ph.D. in Computer Science at the University of Massachusetts-Amherst in 2000. Her main research interests are in reinforcement learning, especially neverending learning and making deep RL more efficient and real-world applications of machine learning, with an emphasis on medicine. Dr. Precup is also involved in activities aiming to improve diversity in machine learning.
+        </p>
+    </div>
+
+    <button type="button" class="collapsible">Abstract</button>
+    <div class="content">
+        <p style='margin-top: 5pt;font-size: 11pt;'>
+        TBD
+        </p>
+    </div>
+  </div>
+</div>
+
+<div class='row'>
+
+  <div class="col-3">
+
+    <div class="frame">
+
+      <img class="speaker-img" src='/assets/img/feryal.png'>
+
+    </div>
+
+  </div>
+
+  <div class="col-9">
+
+    <h4> <a href="https://feryal.github.io/" target="_blank"> Feryal Behbahani </a></h4>
+
+    <p class='speaker-affiliation'> Google DeepMind </p>
+
+      <p style='font-size: 11pt;'>
+
+        <b>Talk title: </b>  TBD
+
+    </p>
+
+
+    <button type="button" class="collapsible">Abstract</button>
+    <div class="content">
+        <p style='margin-top: 5pt;font-size: 11pt;'>
+        TBD
+        </p>
+    </div>
+  </div>
+</div>
 
 
 
