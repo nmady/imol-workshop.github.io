@@ -23,7 +23,7 @@ subtitle:
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/cansu_sancaktar.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://is.mpg.de/person/csancaktar">Cansu Sancaktar</a> <br> <p 
-class='speaker-affiliation'>Max Planck Institute</p></div>
+class='speaker-affiliation'>Max Planck Institute for Intelligent Systems</p></div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/junyi.png'>

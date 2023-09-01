@@ -60,7 +60,7 @@ subtitle:
 
     <h4> <a href="https://is.mpg.de/en/people/gmartius" target="_blank"> Georg Martius </a></h4>
 
-    <p class='speaker-affiliation'> Max Planck Institute </p>
+    <p class='speaker-affiliation'> Max Planck Institute for Intelligent Systems, University of Tübingen</p>
 
       <p style='font-size: 11pt;'>
 
