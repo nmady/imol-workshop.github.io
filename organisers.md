@@ -65,7 +65,6 @@ of Massachussetts Amherst</p></div>
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.istc.cnr.it/people/gianluca-baldassarre">Gianlucca Baldassarre</a> <br> <p 
 class='speaker-affiliation'> Institute of Cog. Sciences and Technologies of Italy</p></div>
     </div>
-
   <div class="col-sm">
     </div>
 

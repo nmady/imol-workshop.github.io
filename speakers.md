@@ -103,7 +103,7 @@ subtitle:
 
       <p style='font-size: 11pt;'>
 
-        <b>Talk title: </b> How do humans overcome individual computational limitations by working together?
+        <b>Talk title: </b> How Do Humans Overcome Individual Computational Limitations by Working Together?
 
     </p>
     <button type="button" class="collapsible">Bio</button>
@@ -137,7 +137,7 @@ I am an assistant professor in the Department of Psychology at Princeton Univers
     <h4> <a href="https://people.idsia.ch/~juergen/" target="_blank"> Jürgen Schmidhuber </a></h4>
     <p class='speaker-affiliation'> KAUST, AI Swiss Lab </p>
       <p style='font-size: 11pt;'>
-        <b>Talk title: </b> Artificial neural nets with intrinsic motivation since 1990
+        <b>Talk title: </b> Artificial Neural Nets with Intrinsic Motivation Since 1990
     </p>
     <button type="button" class="collapsible">Bio</button>
     <div class="content">
@@ -149,7 +149,7 @@ The New York Times headlined: "When A.I. Matures, It May Call Jürgen Schmidhube
     <button type="button" class="collapsible">Abstract</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-        Artificial neural nets with intrinsic motivation since 1990.
+        Artificial Neural Nets with Intrinsic Motivation Since 1990.
 For over three decades I have published work about artificial scientists equipped with intrinsic motivation to implement artificial curiosity and creativity. In this context, I have frequently pointed out that there are two important things in science: (A) Finding answers to given questions, and (B) Coming up with good questions. (A) is arguably just the standard problem of computer science. But how to implement the creative part (B) in artificial systems through reinforcement learning (RL), gradient-based artificial neural networks (NNs), and other machine learning methods? Here I summarise some of our approaches:
 <ul style='font-size: 11pt;'>
 <li>1990: Intrinsic motivation through the principle of generative adversarial NNs</li>
