@@ -146,18 +146,30 @@ h4{
   .organiser-img{
     width: 30% !important;
   }
-} 
+}
+
+table {
+    width: 100%;
+}
+td:first-child {
+    width: 90pt;
+}
+tr:nth-child(n+1), tr:nth-child(n+2) {
+    background: #edd8e2;
+}
 
 
 .row{
   margin-bottom: 10px;
 }
 
+
+
 .program-table{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 75%;
+  width: 100%;
 }
 
 .speaker-affiliation{
