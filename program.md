@@ -22,7 +22,7 @@ subtitle:
 
   <tr>
     <td>09:00 - 09:40</td>
-    <td><b>Invited talk:</b>  How Do Humans Overcome Individual Computational Limitations by Working Together? - Natalia Vélez</td>
+    <td><b>Invited talk:</b> Title TBD - Doina Precup</td>
   </tr>
 
   <tr>
@@ -70,7 +70,7 @@ subtitle:
 
   <tr>
     <td>13:40 - 14:20</td>
-    <td><b>Invited talk:</b>  Agents of Curiosity: Testing Network Theories in Human and Non-Human Inquirers - Daniel Bassett </td>
+    <td><b>Invited talk:</b>  Agents of Curiosity: Testing Network Theories in Human and Non-Human Inquirers - Dani Bassett </td>
   </tr>
 
   <tr>
@@ -90,7 +90,7 @@ subtitle:
 
   <tr>
     <td>16:10 - 16:50</td>
-    <td><b>Invited Talk:</b> Title TBD - Doina Precup</td>
+    <td><b>Invited Talk:</b> How Do Humans Overcome Individual Computational Limitations by Working Together? - Natalia Vélez</td>
   </tr>
 
   <tr>
