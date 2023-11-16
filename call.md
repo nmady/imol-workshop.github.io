@@ -54,7 +54,7 @@ Examples of topics include:
 	</tr>
 	<tr>
 		<td> Camera-Ready Deadline</td>
-		<td> Nov 24, 2023 </td>
+		<td> Nov 20, 2023 </td>
 	</tr>
 	<tr>
 		<td> Workshop Date</td>
