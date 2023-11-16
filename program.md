@@ -11,46 +11,37 @@ subtitle:
 <table>
 
   <tr>
-    <td>08:15 - 08:20</td>
+    <td>08:15 - 08:25</td>
     <td>Opening Remarks</td>
   </tr>
 
   <tr>
-    <td>08:20 - 09:00</td>
-    <td><b>Invited talk:</b> Intrinsic Motivations for Efficient Exploration in Reinforcement Learning - Georg Martius</td>
+    <td>08:25 - 09:05</td>
+    <td><b>Invited talk:</b> <i>Georg Martius</i> - Intrinsic Motivations for Efficient Exploration in Reinforcement Learning</td>
   </tr>
 
   <tr>
-    <td>09:00 - 09:40</td>
-    <td><b>Invited talk:</b>  How Do Humans Overcome Individual Computational Limitations by Working Together? - Natalia Vélez</td>
+    <td>09:05 - 09:45</td>
+    <td><b>Invited talk:</b> <i>Doina Precup</i> - Title TBD</td>
   </tr>
 
   <tr>
-    <td>09:40 - 09:55</td>
-    <td>Contributed talk 1</td>
+    <td>09:45 - 10:00</td>
+    <td>Contributed talk: Surprise-Adaptive Intrinsic Motivation for Unsupervised Reinforcement Learning</td>
   </tr>
 
   <tr>
-    <td>09:55 - 10:00</td>
-    <td>Discussion</td>
+    <td>10:00 - 11:00</td>
+    <td style="text-align: center">Break & Posters</td>
   </tr>
 
-  <tr>
-    <td>10:00 - 10:30</td>
-    <td style="text-align: center">Break</td>
-  </tr>
-
-  <tr>
-    <td>10:30 - 11:00</td>
-    <td>Poster Session</td>
-  </tr>
   <tr>
     <td>11:00 - 11:15</td>
-    <td>Contributed talk 2</td>
+    <td>Contributed talk: What can AI Learn from Human Exploration?</td>
   </tr>
   <tr>
     <td>11:15 - 11:55</td>
-    <td><b>Invited talk:</b>  Agency and Cognitive Development - Michael Tomasello</td>
+    <td><b>Invited talk:</b> <i>Michael Tomasello</i> - Agency and Cognitive Development</td>
   </tr>
 
   <tr>
@@ -59,43 +50,45 @@ subtitle:
   </tr>
 
   <tr>
-    <td>12:00 - 13:00</td>
+    <td>12:00 - 13:30</td>
     <td style="text-align: center">Lunch</td>
   </tr>
 
+ <tr>
+    <td>13:30 - 13:45</td>
+    <td>Contributed talk: Voyager: An Open-Ended Embodied Agent with Large Language Models </td>
+  </tr>
+
+
   <tr>
-    <td>13:00 - 13:40</td>
-    <td><b>Invited talk:</b> Title TBD - Feryal Behbahani </td>
+    <td>13:45 - 14:25</td>
+    <td><b>Invited talk:</b> <i>Feryal Behbahani</i> - Title TBD</td>
   </tr>
 
   <tr>
-    <td>13:40 - 14:20</td>
-    <td><b>Invited talk:</b>  Agents of Curiosity: Testing Network Theories in Human and Non-Human Inquirers - Daniel Bassett </td>
+    <td>14:25 - 15:05</td>
+    <td><b>Invited talk:</b> <i>Jürgen Schmidhuber</i> - Artificial Neural Nets with Intrinsic Motivation Since 1990</td>
   </tr>
 
-  <tr>
-    <td>14:20 - 15:00</td>
-    <td>Poster session</td>
-  </tr>
 
    <tr>
-    <td>15:00 - 15:30</td>
-    <td style="text-align: center">Break</td>
+    <td>15:05 - 16:05</td>
+    <td style="text-align: center">Break & Posters</td>
   </tr>
 
   <tr>
-    <td>15:30 - 16:10</td>
-    <td><b>Invited talk:</b>   Artificial Neural Nets with Intrinsic Motivation Since 1990  - Jürgen Schmidhuber </td>
+    <td>16:05 - 16:45</td>
+    <td><b>Invited talk:</b> <i>Dani Bassett</i> - Agents of Curiosity: Testing Network Theories in Human and Non-Human Inquirers</td>
   </tr>
 
   <tr>
-    <td>16:10 - 16:50</td>
-    <td><b>Invited Talk:</b> Title TBD - Doina Precup</td>
+    <td>16:45 - 17:25</td>
+    <td><b>Invited Talk:</b> <i>Natalia Vélez</i> - How Do Humans Overcome Individual Computational Limitations by Working Together?</td>
   </tr>
 
   <tr>
-    <td>16:50 - 17:30</td>
-    <td>Town Hall</td>
+    <td>17:25 - 17:30</td>
+    <td>Closing Remarks</td>
   </tr>
 </table>
 
