@@ -8,29 +8,30 @@
 }
 
 .collapsible {
-  margin-top: 3pt;
-  background-color: rgba(0,0,0,.08);
+  margin-top: 15pt;
+  background-color: #edd8e2;
+  border-color: #1f0612;
   border-radius: 5pt;
-  color: black;
+  color: #1f0612;
   cursor: pointer;
   padding: 10px;
   width: 100%;
   border: none;
   text-align: left;
   outline: none;
-  font-size: 70%;
+  font-size: 100%;
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .collapsible:hover {
-  background-color: rgba(0,0,0,.08);
-  border-color: gray;
+  background-color: #edd8e2; /*rgba(0,0,0,.08);*/
+  border-color: #edd8e2;
 }
 
 .collapsible:after {
   content: '\02795'; /* Unicode character for "plus" sign (+) */
   color: white !important;
-  border-color: white;
+  border-color: #edd8e2;
   float: right;
   margin-left: 5px;
 }
@@ -69,15 +70,16 @@
 }
 
 .btn-primary{
-  font-size: 70%;
-  background-color: #212529;
-  border-color: gray;
+  font-size: 100%;
+  background-color: #1f0612;
+  border-color: #1f0612;
 }
 
 .btn-primary:hover,
 .btn-primary:focus {
-  background-color: #0085A1;
-  border-color: #0085A1;
+  background-color: #edd8e2;
+  border-color: #1f0612;
+  color: #1f0612;
 }
 
 .center{
