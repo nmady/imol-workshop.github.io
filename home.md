@@ -28,6 +28,14 @@ layout: home
 <!--  <div class="logo-sponsor"><img src="assets/img/sponsors/cohere_wordmark_black.png" style="width:55pt; margin-bottom: 6pt;"></div>-->
 <!--</div>-->
 
+
+<div class='description' style='font-size: 11pt;'>
+
+
+<p><b>Mentorship session:</b> Sign up <a href="https://t.co/9zw5X4j4xk" target="_blank">here</a> to chat with one of our research mentors! 
+The list include Anima Anandkumar, Dani Bassett, Doina Precup, Georg Martius, Jim Fan, Laura Schulz and Natalia Vélez. </p>
+</div>
+
 <div class='description' style='font-size: 11pt;'>
 
 <h3 style='margin-bottom: 10pt;'>Description</h3>
