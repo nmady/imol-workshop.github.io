@@ -187,7 +187,7 @@ For over three decades I have published work about artificial scientists equippe
 
       <p style='font-size: 11pt;'>
 
-        <b>Talk title: </b>  Agents of Curiosity: Testing Network Theories in Human and Non-Human Inquirers
+        <b>Talk title: </b>Curiosity Styles in the (Natural & Artificial) Wild
 
     </p>
     <button type="button" class="collapsible">Bio</button>
@@ -200,7 +200,7 @@ Prof. Bassett is the J. Peter Skirkanich Professor at the University of Pennsylv
     <button type="button" class="collapsible">Abstract</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-        TBD
+        What is curiosity? Across disciplines, some scholars offer a range of definitions while others eschew definitions altogether. Is the field of curiosity studies simply too young? Should we, as has been argued in neuroscience, press forward in definition-less characterization? At this juncture in the field's history, we turn to an examination of curiosity styles, and ask: How has curiosity been practiced over the last two millennia and how is it practiced today? We exercise a recent historico-philosophical account to catalogue common styles of curiosity and test for their presence as humans browse Wikipedia. Next we consider leading theories from psychology and mechanics that could explain curiosity styles, and formalize those theories in the mathematics of network science. Such a formalization allows theories of curiosity to be explicitly tested in human behavioral data and for their relative mental affordances to be investigated. Moreover, the formalization allows us to train artificial agents to build in human-like curiosity styles through reinforcement learning. Finally, with styles and theories in hand, we expand out to a study of several million users of Wikipedia to understand how curiosity styles might or might not differ around the world and track factors of social inequality. Collectively, our findings support the notion that curiosity is practiced---differently across people---as unique styles of network building, thereby providing a connective counterpoint to the common acquisitional account of curiosity in humans.
         </p>
     </div>
   </div>
