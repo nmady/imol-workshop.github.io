@@ -127,41 +127,30 @@ I am an assistant professor in the Department of Psychology at Princeton Univers
 
     <div class="frame">
 
-      <img class="speaker-img" src='/assets/img/jurgen.jpeg'>
+      <img class="speaker-img" src='/assets/img/daniel.png'>
 
     </div>
 
   </div>
   <div class="col-9">
 
-    <h4> <a href="https://people.idsia.ch/~juergen/" target="_blank"> Jürgen Schmidhuber </a></h4>
-    <p class='speaker-affiliation'> KAUST, AI Swiss Lab </p>
+    <h4> <a href="https://people.idsia.ch/~juergen/" target="_blank"> Daniel Polani </a></h4>
+    <p class='speaker-affiliation'> University of Hertfordshire </p>
       <p style='font-size: 11pt;'>
-        <b>Talk title: </b> Artificial Neural Nets with Intrinsic Motivation Since 1990
+        <b>Talk title: </b> Information and its Flow: From Dynamics to Agency and Back
     </p>
     <button type="button" class="collapsible">Bio</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-The New York Times headlined: "When A.I. Matures, It May Call Jürgen Schmidhuber 'Dad'." Since age 15, his main goal has been to build a self-improving A.I. smarter than himself, then retire. His lab's deep learning artificial neural networks based on ideas published in the "Annus Mirabilis" 1990-1991 have revolutionised machine learning and A.I. By 2017, they were on over 3 billion smartphones, and used billions of times per day, for Facebook’s automatic translation, Google’s speech recognition, Google Translate, Apple’s Siri & QuickType, Amazon’s Alexa, etc. He pioneered generative adversarial networks (1990, now widely used), artificial curiosity, Transformers with linearized self-attention (1991 - Transformers are the basis of the famous ChatGPT), and meta-learning machines that learn to learn (since 1987). Today, the most cited neural networks all build on work done in his labs. He is recipient of numerous awards, Director of the AI Initiative at KAUST in KSA, Scientific Director of the Swiss AI Lab IDSIA, Adj. Prof. of A.I. at Univ. Lugano, and Co-Founder & Chief Scientist of the company NNAISENSE. He is a frequent keynote speaker at major events, and advising various governments on A.I. strategies.
+    Daniel Polani is Professor of Artificial Intelligence, Director of the Centre for Computer Science and Informatics Research (CCSIR) and Head of the Adaptive Systems Research Group at the School of Physics, Engineering and Computer Science at the University of Hertfordshire. He is Associate Editor in a number of journals. His research interests include principles of cognition, intelligence and robotics from first, especially information-theoretic, principles. Ramifications of this research range from practical applications to more fundamental questions, such as the role of embodiment, intrinsic motivations and taskless utilities, to questions from cognitive science, psychology, social science, and biology.
         </p>
     </div>
 
     <button type="button" class="collapsible">Abstract</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-        Artificial Neural Nets with Intrinsic Motivation Since 1990.
-For over three decades I have published work about artificial scientists equipped with intrinsic motivation to implement artificial curiosity and creativity. In this context, I have frequently pointed out that there are two important things in science: (A) Finding answers to given questions, and (B) Coming up with good questions. (A) is arguably just the standard problem of computer science. But how to implement the creative part (B) in artificial systems through reinforcement learning (RL), gradient-based artificial neural networks (NNs), and other machine learning methods? Here I summarise some of our approaches:
-<ul style='font-size: 11pt;'>
-<li>1990: Intrinsic motivation through the principle of generative adversarial NNs</li>
-<li>1991: Intrinsic motivation through NNs that maximise learning progress</li>
-<li>1995: RL to maximise information gain or Bayesian surprise. (2011: Do this optimally)</li>
-<li>1997: Adversarial RL agents design surprising computational experiments</li>
-<li>2022: NNs generating complex experiments encoded as NN weight matrices</li>
-<li>2006: Intrinsic motivation to maximise compression progress like scientists/artists/comedians do</li>
-<li>2011: Intrinsic Motivation through PowerPlay which continually searches for novel well-defined computational problems whose solutions can easily be added to the skill repertoire, taking into account verification time</li>
-<li>2015: Planning and intrinsic motivation with spatio-temporal abstractions in NNs</li>
-</ul>    
-</p>
+        In the last few years, various forms of information flow were found to be useful quantities for the characterization of the decision-making of agents, whether natural or artificial. We here especially consider one particular type of information flow, empowerment, which can be used as intrinsic motivation that is derived from the dynamical properties of the external perception-action loop. The present talk will discuss empowerment in the context of its evolutionary motivation, questions of agency as well as some insightful new links to Dynamical Systems theory.
+    </p>
     </div>
   </div>
 </div>
@@ -187,20 +176,20 @@ For over three decades I have published work about artificial scientists equippe
 
       <p style='font-size: 11pt;'>
 
-        <b>Talk title: </b>  Agents of Curiosity: Testing Network Theories in Human and Non-Human Inquirers
+        <b>Talk title: </b>  Curiosity Styles in the (Natural & Artificial) Wild
 
     </p>
     <button type="button" class="collapsible">Bio</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-Prof. Bassett is the J. Peter Skirkanich Professor at the University of Pennsylvania, with appointments in the Departments of Bioengineering, Electrical & Systems Engineering, Physics & Astronomy, Neurology, and Psychiatry. They are also an external professor of the Santa Fe Institute. Bassett is most well-known for blending neural and systems engineering to identify fundamental mechanisms of cognition and disease in human brain networks. They received a B.S. in physics from Penn State University and a Ph.D. in physics from the University of Cambridge, UK as a Churchill Scholar, and as an NIH Health Sciences Scholar. Following a postdoctoral position at UC Santa Barbara, Bassett was a Junior Research Fellow at the Sage Center for the Study of the Mind. They have received multiple prestigious awards, including American Psychological Association's ‘Rising Star’ (2012), Alfred P Sloan Research Fellow (2014), MacArthur Fellow Genius Grant (2014), Early Academic Achievement Award from the IEEE Engineering in Medicine and Biology Society (2015), Office of Naval Research Young Investigator (2015), National Science Foundation CAREER (2016), Popular Science Brilliant 10 (2016), Lagrange Prize in Complex Systems Science (2017), Erdos-Renyi Prize in Network Science (2018), OHBM Young Investigator Award (2020), AIMBE College of Fellows (2020), American Physical Society Fellow (2021), and has been named one of Web of Science's most Highly Cited Researchers for 3 years running. Bassett is the author of more than 400 peer-reviewed publications, which have garnered over 45,000 citations, as well as numerous book chapters and teaching materials. Bassett’s work has been supported by the National Science Foundation, the National Institutes of Health, the Army Research Office, the Army Research Laboratory, the Office of Naval Research, the Department of Defense, the Alfred P Sloan Foundation, the John D and Catherine T MacArthur Foundation, the Paul Allen Foundation, the ISI Foundation, and the Center for Curiosity. Bassett has recently co-authored Curious Minds: The Power of Connection (MIT Press) with philosopher and twin Perry Zurn.
+    Prof. Bassett is the J. Peter Skirkanich Professor at the University of Pennsylvania, with appointments in the Departments of Bioengineering, Electrical & Systems Engineering, Physics & Astronomy, Neurology, and Psychiatry. They are also an external professor of the Santa Fe Institute. Bassett is most well-known for blending neural and systems engineering to identify fundamental mechanisms of cognition and disease in human brain networks. They received a B.S. in physics from Penn State University and a Ph.D. in physics from the University of Cambridge, UK as a Churchill Scholar, and as an NIH Health Sciences Scholar. Following a postdoctoral position at UC Santa Barbara, Bassett was a Junior Research Fellow at the Sage Center for the Study of the Mind. They have received multiple prestigious awards, including American Psychological Association's ‘Rising Star’ (2012), Alfred P Sloan Research Fellow (2014), MacArthur Fellow Genius Grant (2014), Early Academic Achievement Award from the IEEE Engineering in Medicine and Biology Society (2015), Office of Naval Research Young Investigator (2015), National Science Foundation CAREER (2016), Popular Science Brilliant 10 (2016), Lagrange Prize in Complex Systems Science (2017), Erdos-Renyi Prize in Network Science (2018), OHBM Young Investigator Award (2020), AIMBE College of Fellows (2020), American Physical Society Fellow (2021), and has been named one of Web of Science's most Highly Cited Researchers for 3 years running. Bassett is the author of more than 400 peer-reviewed publications, which have garnered over 45,000 citations, as well as numerous book chapters and teaching materials. Bassett’s work has been supported by the National Science Foundation, the National Institutes of Health, the Army Research Office, the Army Research Laboratory, the Office of Naval Research, the Department of Defense, the Alfred P Sloan Foundation, the John D and Catherine T MacArthur Foundation, the Paul Allen Foundation, the ISI Foundation, and the Center for Curiosity. Bassett has recently co-authored Curious Minds: The Power of Connection (MIT Press) with philosopher and twin Perry Zurn.
         </p>
     </div>
 
     <button type="button" class="collapsible">Abstract</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-        TBD
+        What is curiosity? Across disciplines, some scholars offer a range of definitions while others eschew definitions altogether. Is the field of curiosity studies simply too young? Should we, as has been argued in neuroscience, press forward in definition-less characterization? At this juncture in the field's history, we turn to an examination of curiosity styles, and ask: How has curiosity been practiced over the last two millennia and how is it practiced today? We exercise a recent historico-philosophical account to catalogue common styles of curiosity and test for their presence as humans browse Wikipedia. Next we consider leading theories from psychology and mechanics that could explain curiosity styles, and formalize those theories in the mathematics of network science. Such a formalization allows theories of curiosity to be explicitly tested in human behavioral data and for their relative mental affordances to be investigated. Moreover, the formalization allows us to train artificial agents to build in human-like curiosity styles through reinforcement learning. Finally, with styles and theories in hand, we expand out to a study of several million users of Wikipedia to understand how curiosity styles might or might not differ around the world and track factors of social inequality. Collectively, our findings support the notion that curiosity is practiced---differently across people---as unique styles of network building, thereby providing a connective counterpoint to the common acquisitional account of curiosity in humans.
         </p>
     </div>
   </div>

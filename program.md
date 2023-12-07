@@ -77,7 +77,7 @@ The list include Anima Anandkumar, Dani Bassett, Doina Precup, Georg Martius, Ji
 
   <tr>
     <td>14:25 - 15:05</td>
-    <td><b>Invited talk:</b> <i>Jürgen Schmidhuber</i> - Artificial Neural Nets with Intrinsic Motivation Since 1990</td>
+    <td><b>Invited talk:</b> <i>Daniel Polani</i> -  Information and its Flow: From Dynamics to Agency and Back</td>
   </tr>
 
 
@@ -88,7 +88,7 @@ The list include Anima Anandkumar, Dani Bassett, Doina Precup, Georg Martius, Ji
 
   <tr>
     <td>16:05 - 16:45</td>
-    <td><b>Invited talk:</b> <i>Dani Bassett</i> - Agents of Curiosity: Testing Network Theories in Human and Non-Human Inquirers</td>
+    <td><b>Invited talk:</b> <i>Dani Bassett</i> - Curiosity Styles in the (Natural & Artificial) Wild</td>
   </tr>
 
   <tr>
