@@ -8,8 +8,8 @@ subtitle:
 
 <h3 style='margin-bottom: 10pt;'>Mentorship Session</h3>
 
-<p>Sign up <a href="https://t.co/9zw5X4j4xk" target="_blank">here</a> to chat with one of our research mentors! 
-The list include Anima Anandkumar, Dani Bassett, Doina Precup, Georg Martius, Jim Fan, Laura Schulz and Natalia Vélez. </p>
+<p>Sign up <b><a href="https://t.co/9zw5X4j4xk" style="color:#a2204d" target="_blank">here</a></b> to chat with one of our research mentors!
+    The list includes Anima Anandkumar, Dani Bassett, Doina Precup, Georg Martius, Jim Fan, Laura Schulz and Natalia Vélez. </p>
 </div>
 
 <h3 style='margin-bottom: 10pt;'>Program of the Day</h3>

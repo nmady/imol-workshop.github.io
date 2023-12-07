@@ -134,7 +134,7 @@ I am an assistant professor in the Department of Psychology at Princeton Univers
   </div>
   <div class="col-9">
 
-    <h4> <a href="https://people.idsia.ch/~juergen/" target="_blank"> Daniel Polani </a></h4>
+    <h4> <a href="https://researchprofiles.herts.ac.uk/en/persons/daniel-polani" target="_blank"> Daniel Polani </a></h4>
     <p class='speaker-affiliation'> University of Hertfordshire </p>
       <p style='font-size: 11pt;'>
         <b>Talk title: </b> Information and its Flow: From Dynamics to Agency and Back
