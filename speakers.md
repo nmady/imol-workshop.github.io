@@ -103,7 +103,7 @@ subtitle:
 
       <p style='font-size: 11pt;'>
 
-        <b>Talk title: </b> How Do Humans Overcome Individual Computational Limitations by Working Together?
+        <b>Talk title: </b> Studying Large-Scale Collaborations in Open-Ended Games
 
     </p>
     <button type="button" class="collapsible">Bio</button>
@@ -115,7 +115,7 @@ I am an assistant professor in the Department of Psychology at Princeton Univers
     <button type="button" class="collapsible">Abstract</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-        TBD
+        Humans have developed technological repertoires that have enabled us to survive in virtually every habitat on Earth. However, it can be difficult to trace how these technologies came to be—folk histories of technological achievement often highlight a few brilliant individuals, while losing sight of the rest of the community’s contributions. In this talk, I will present work analyzing player behavior in One Hour One Life, a multiplayer online game where players can build technologically complex communities over many generations (N = 22,011 players, 2,700 communities, 428,255 lives lived, 127,768,267 social interactions detected). This dataset provides a unique opportunity to test how community dynamics shape technological development in an open-ended world: Players can form communities that endure for many generations, and they can combine thousands of unique materials to build vast technological repertoires. At a macroscopic level, we find that community characteristics—such as population size, interconnectedness, and specialization—predict the size and stability of a community’s technological repertoire. Zooming in, we find that individual players contribute their own, individual expertise to technological development—participants consistently perform similar jobs in different communities that they’re placed in, and acquire expertise in these jobs through social interaction. Our work tests theories of cultural evolution and economic complexity at scale and provides a methodological basis to study the interplay between individual expertise and community structures.
         </p>
     </div>
   </div>
@@ -251,7 +251,7 @@ of Canada, noted for her fundamental contributions to reinforcement learning. Dr
 
   <div class="col-9">
 
-    <h4> <a href="https://feryal.github.io/" target="_blank"> Feryal Behbahani </a></h4>
+    <h4> <a href="https://feryal.github.io/" target="_blank"> Yannick  Schroecker</a></h4>
 
     <p class='speaker-affiliation'> Google DeepMind </p>
 

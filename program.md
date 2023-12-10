@@ -72,7 +72,7 @@ subtitle:
 
   <tr>
     <td>13:45 - 14:25</td>
-    <td><b>Invited talk:</b> <i>Feryal Behbahani</i> - Title TBD</td>
+    <td><b>Invited talk:</b> <i>Yannick Schroecker</i> - Title TBD</td>
   </tr>
 
   <tr>
@@ -93,7 +93,7 @@ subtitle:
 
   <tr>
     <td>16:45 - 17:25</td>
-    <td><b>Invited Talk:</b> <i>Natalia Vélez</i> - How Do Humans Overcome Individual Computational Limitations by Working Together?</td>
+    <td><b>Invited Talk:</b> <i>Natalia Vélez</i> - Studying Large-Scale Collaborations in Open-Ended Games</td>
   </tr>
 
   <tr>
