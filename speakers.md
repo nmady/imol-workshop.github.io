@@ -243,7 +243,7 @@ of Canada, noted for her fundamental contributions to reinforcement learning. Dr
 
     <div class="frame">
 
-      <img class="speaker-img" src='/assets/img/feryal.png'>
+      <img class="speaker-img" src='/assets/img/yannick.jpg'>
 
     </div>
 
@@ -251,7 +251,7 @@ of Canada, noted for her fundamental contributions to reinforcement learning. Dr
 
   <div class="col-9">
 
-    <h4> <a href="https://feryal.github.io/" target="_blank"> Yannick  Schroecker</a></h4>
+    <h4> <a href="https://sites.gatech.edu/yannickschroecker/" target="_blank"> Yannick  Schroecker</a></h4>
 
     <p class='speaker-affiliation'> Google DeepMind </p>
 
