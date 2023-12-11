@@ -10,7 +10,7 @@ layout: home
 </center>
 
 <br>
-<div class="subsubheading">NeurIPS 2023 in-person Workshop, December 16, New Orleans</div>
+<div class="subsubheading">NeurIPS 2023 in-person Workshop, Room 260-262, Saturday December 16, New Orleans</div>
 
 <div class="contact-heading"><a href='mailto:imol.workshop@gmail.com'>imol.workshop@gmail.com</a>.</div>
 
