@@ -251,14 +251,12 @@ of Canada, noted for her fundamental contributions to reinforcement learning. Dr
 
   <div class="col-9">
 
-    <h4> <a href="https://sites.gatech.edu/yannickschroecker/" target="_blank"> Yannick  Schroecker</a></h4>
+    <h4> <a href="https://sites.gatech.edu/yannickschroecker/" target="_blank">Yannick  Schroecker</a></h4>
 
     <p class='speaker-affiliation'> Google DeepMind </p>
 
       <p style='font-size: 11pt;'>
-
-        <b>Talk title: </b>  TBD
-
+        <b>Talk title: </b>  Human-Timescale Adaptation in an Open-Ended Task Space
     </p>
 
 

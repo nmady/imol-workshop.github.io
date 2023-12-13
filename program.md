@@ -72,7 +72,7 @@ subtitle:
 
   <tr>
     <td>13:45 - 14:25</td>
-    <td><b>Invited talk:</b> <i>Yannick Schroecker</i> - Title TBD</td>
+    <td><b>Invited talk:</b> <i>Yannick Schroecker</i> - Human-Timescale Adaptation in an Open-Ended Task Space </td>
   </tr>
 
   <tr>
