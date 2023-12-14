@@ -263,9 +263,17 @@ of Canada, noted for her fundamental contributions to reinforcement learning. Dr
     <button type="button" class="collapsible">Abstract</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-        TBD
+         Foundation models when trained at scale have shown impressive capabilities to adapt to new tasks with few examples provided in context; however, there remains a gap between the ability of these models and requirements to successfully act in embodied domains. To close this gap with reinforcement learning, our agents have to be trained at scale as well. In this talk, I will present recipes towards this end and dive into the details of how we trained AdA, utilizing a vast open ended task space, to achieve human-timescale adaptation in a 3d embodied domain. The trained agent displays on-the-fly hypothesis-driven exploration, efficient exploitation of acquired knowledge, and can successfully be prompted with first-person demonstrations. 
         </p>
     </div>
+
+  <button type="button" class="collapsible">Bio</button>
+    <div class="content">
+        <p style='margin-top: 5pt;font-size: 11pt;'>
+Yannick Schroecker is a Research Scientist at Google DeepMind. His recent work is on reinforcement-learning and meta-learning with a focus on online reinforcement learning in large-scale multi-task domains. Prior to this, he obtained a PhD at Georgia Tech for his work on imitation learning.
+        </p>
+    </div>
+    
   </div>
 </div>
 
