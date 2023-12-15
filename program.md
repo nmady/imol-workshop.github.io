@@ -32,7 +32,7 @@ subtitle:
 
   <tr>
     <td>09:05 - 09:45</td>
-    <td><b>Invited talk:</b> <i>Doina Precup</i> - Title TBD</td>
+    <td><b>Invited talk:</b> <i>Doina Precup</i> - Towards a General Blueprint for Continual Reinforcement Learning</td>
   </tr>
 
   <tr>

@@ -216,7 +216,7 @@ I am an assistant professor in the Department of Psychology at Princeton Univers
 
       <p style='font-size: 11pt;'>
 
-        <b>Talk title: </b>  TBD
+        <b>Talk title: </b>  Towards a General Blueprint for Continual Reinforcement Learning
 
     </p>
     <button type="button" class="collapsible">Bio</button>
@@ -231,7 +231,7 @@ of Canada, noted for her fundamental contributions to reinforcement learning. Dr
     <button type="button" class="collapsible">Abstract</button>
     <div class="content">
         <p style='margin-top: 5pt;font-size: 11pt;'>
-        TBD
+        Intelligent agents must be able to learn by interacting with their environment and to adapt to changes. Continual reinforcement learning provides a natural way to model this process. In this talk, I will discuss for tackling this problem by constructing abstractions, such as intents, options, affordances and partial models that allow an agent to generalize its knowledge quickly to new circumstances.
         </p>
     </div>
   </div>
