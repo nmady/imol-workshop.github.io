@@ -259,6 +259,12 @@ of Canada, noted for her fundamental contributions to reinforcement learning. Dr
         <b>Talk title: </b>  Human-Timescale Adaptation in an Open-Ended Task Space
     </p>
 
+ <button type="button" class="collapsible">Bio</button>
+    <div class="content">
+        <p style='margin-top: 5pt;font-size: 11pt;'>
+Yannick Schroecker is a Research Scientist at Google DeepMind. His recent work is on reinforcement-learning and meta-learning with a focus on online reinforcement learning in large-scale multi-task domains. Prior to this, he obtained a PhD at Georgia Tech for his work on imitation learning.
+        </p>
+    </div>
 
     <button type="button" class="collapsible">Abstract</button>
     <div class="content">
@@ -267,12 +273,7 @@ of Canada, noted for her fundamental contributions to reinforcement learning. Dr
         </p>
     </div>
 
-  <button type="button" class="collapsible">Bio</button>
-    <div class="content">
-        <p style='margin-top: 5pt;font-size: 11pt;'>
-Yannick Schroecker is a Research Scientist at Google DeepMind. His recent work is on reinforcement-learning and meta-learning with a focus on online reinforcement learning in large-scale multi-task domains. Prior to this, he obtained a PhD at Georgia Tech for his work on imitation learning.
-        </p>
-    </div>
+ 
     
   </div>
 </div>
