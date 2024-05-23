@@ -6,23 +6,23 @@
 # --- Required options --- #
 
 # Name of website
-title: IMOL@NeurIPS 2023
+title: IMOL@NeurIPS 2024
 
 # Your name to show in the footer
 author: The organizing committee
 #footerinfo: The website robot logo is modified from a Flaticon logo, created by Slidesgo
 # --- List of links in the navigation bar --- #
 
+source: site_2024
 navbar-links:
-  Home: "home"
-  Speakers: "speakers"
-  Program: "program"
-  Call for Papers: "call"
-  Papers: "papers"
-  Organisers: "organisers"
+  Home: "/"
+  Speakers: "/pages/speakers"
+  Program: "/pages/program"
+  Call for Papers: "/pages/call"
+  Papers: "/pages/papers"
+  Organisers: "/pages/organisers"
+  Past Edition: "/site_2023/index.html"
 #  Sponsors: "sponsors"
-
-# --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
@@ -45,7 +45,7 @@ social-network-links:
 #   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #   facebook: deanattali
 #   github: daattali
-  twitter: IMOLNeurIPS2023
+  twitter: IMOLNeurIPS2024
 #   patreon: DeanAttali
 #   youtube: c/daattali
 #  medium: yourname
@@ -105,18 +105,18 @@ post_search: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#edd8e2"
-navbar-text-col: "#1f0612"
-navbar-border-col: "#1f0612"
-page-col: "#f7f2f0"
-text-col: "#1f0612"
-link-col: "#a2204d"
-hover-col: "#4d0b2c"
-footer-col: "#edd8e2"
-footer-border-col: "#5d71a1"
-footer-text-col: "#1f0612"
-footer-link-col: "#4d0b2c"
-footer-hover-col: "#4d0b2c"
+navbar-col: "#f0c3a3"
+navbar-text-col: "#1f1106"
+navbar-border-col: "#1f1106"
+page-col: "#f2e0d3"
+text-col: "#1f1106"
+link-col: "#a24520"
+hover-col: "#944601"
+footer-col: "#f0c3a3"
+footer-border-col: "#1f1106"
+footer-text-col: "#1f1106"
+footer-link-col: "#a24520"
+footer-hover-col: "#944601"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

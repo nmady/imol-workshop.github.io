@@ -1,0 +1,39 @@
+This doc explains how to create a new edition of the website while embedding the previous ones inside
+
+# create the current site
+first jekyll serve the current edition you care about with  bundle exec jekyll serve
+then stop the serving
+this will create the current full website into _site folder
+
+# update website name
+rename the site_prev_year folder into site_new_year
+change the source parameter in config.yml into site_new_year
+
+# embed the old website
+copy _site (copy of the old site) into site_new_year/site_old_year
+you now need to update a couple stuff in the html files of site_old_year
+in particular site_old_year/index.html and all the pages/page_name/index.html files
+what you need to update:
+the three css lines should be:
+    <link rel="stylesheet" href="/site_old_year/assets/css/bootstrap-social.css">
+    <link rel="stylesheet" href="/site_old_year/assets/css/beautifuljekyll.css">
+    <link rel="stylesheet" href="/site_old_year/css/common.css">
+the nav links should be:
+    <li class="nav-item">
+      <a class="nav-link" href="/site_old_year">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="/site_old_year/pages/speakers">Speakers</a>
+    </li>
+and you need to add a link to the current website by adding one tab:
+    <li class="nav-item">
+      <a class="nav-link" href="/">Current Edition</a>
+    </li><li class="nav-item">
+you basically need to update all /assets/ links in these files into /site_old_year/assets/, like all links to pictures!
+
+the above things ensure that tab links and css files used in the old website will point to the old website and not the new one.
+
+# ok now your new website needs to point to the old ones
+you can add a new tab with links to each of the past events if several
+i currently have just one past event so the tab links directly routes there: site_old_year/index.html
+
