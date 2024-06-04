@@ -105,18 +105,31 @@ post_search: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#f0c3a3"
-navbar-text-col: "#1f1106"
-navbar-border-col: "#1f1106"
-page-col: "#f2e0d3"
-text-col: "#1f1106"
-link-col: "#a24520"
-hover-col: "#944601"
-footer-col: "#f0c3a3"
-footer-border-col: "#1f1106"
-footer-text-col: "#1f1106"
-footer-link-col: "#a24520"
-footer-hover-col: "#944601"
+#navbar-col: "#f0c3a3"
+#navbar-text-col: "#1f1106"
+#navbar-border-col: "#1f1106"
+#page-col: "#f2e0d3"
+#text-col: "#1f1106"
+#link-col: "#a24520"
+#hover-col: "#944601"
+#footer-col: "#f0c3a3"
+#footer-border-col: "#1f1106"
+#footer-text-col: "#1f1106"
+#footer-link-col: "#a24520"
+#footer-hover-col: "#944601"
+
+navbar-col: "#edd8e2"
+navbar-text-col: "#1f0612"
+navbar-border-col: "#1f0612"
+page-col: "#f7f2f0"
+text-col: "#1f0612"
+link-col: "#a2204d"
+hover-col: "#4d0b2c"
+footer-col: "#edd8e2"
+footer-border-col: "#5d71a1"
+footer-text-col: "#1f0612"
+footer-link-col: "#4d0b2c"
+footer-hover-col: "#4d0b2c"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

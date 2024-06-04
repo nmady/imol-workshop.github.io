@@ -4,8 +4,6 @@ title: Program
 subtitle: 
 ---
 
-<h3 style='margin-bottom: 10pt;'>Accepted Papers</h3>
-<hr>
 <p style='font-size: 11pt;'>
 The program will appear here.
 </p>
