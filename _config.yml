@@ -13,7 +13,6 @@ author: The organizing committee
 #footerinfo: The website robot logo is modified from a Flaticon logo, created by Slidesgo
 # --- List of links in the navigation bar --- #
 
-source: site_2024
 navbar-links:
   Home: "/"
   Speakers: "/pages/speakers"
